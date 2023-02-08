@@ -1,2 +1,2 @@
-# MyCourse
-It‘s used to store the code of my course at college
+# Data Mining
+Lab Code
